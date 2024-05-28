@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "./App.css";
 import Details from "./components/Details";
 import Forecast from "./components/Forecast";
 import TimeLoc from "./components/TimeLoc";
